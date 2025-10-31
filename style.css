@@ -27,7 +27,7 @@ body {
   overflow: hidden;
 }
 
-/* Header */
+/* Header Ka Hai Yah*/
 #first {
   background: radial-gradient(circle at top left, #0b0f2f, #050716);
   border-radius: 2rem 2rem 0 0;
@@ -38,13 +38,13 @@ body {
 }
 
 p {
-  font-size: clamp(1.2rem, 2.5vw, 2rem);
+  font-size: clamp(1.2rem, 2.5vw, 2rem);  /*Yah New Method Hai*/
   color: white;
   font-weight: 600;
   text-align: center;
 }
 
-/* Main Quote Area */
+/* Main Quote Yaha Se Hai */
 #second {
   display: flex;
   justify-content: center;
@@ -67,7 +67,7 @@ p {
   margin-top: 1rem;
 }
 
-/* Footer Button Area */
+/* Footer Button Ka Hai */
 #third {
   background: radial-gradient(circle at top left, #0b0f2f, #050716);
   border-radius: 0 0 2rem 2rem;
@@ -102,7 +102,7 @@ p {
   opacity: 0.8;
 }
 
-/* 🔹 Media Queries for small screens */
+/* 🔹 Media Queries for small screens Ke Liye Haig */
 @media (max-width: 600px) {
   #container {
     min-height: 60vh;
